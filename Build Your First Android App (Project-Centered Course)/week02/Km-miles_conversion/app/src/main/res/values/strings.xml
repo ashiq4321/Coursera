@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Km-miles conversion</string>
+    <string name="inputMiles">miles</string>
+    <string name="inputKm">km</string>
+    <string name="buttonMilesToKm">Convert Miles To Km</string>
+    <string name="buttonKmToMiles">Convert Km To Miles</string>
+    <string name="textviewMiles">Miles</string>
+    <string name="textViewkm">Km</string>
 </resources>
