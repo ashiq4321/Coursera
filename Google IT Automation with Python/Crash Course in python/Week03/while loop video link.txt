@@ -1,0 +1,20 @@
+Introduction to Loops:
+https://d3c33hcgiwev3.cloudfront.net/rp9aOdWLEemBBQ6q5tv6Ug.processed/full/360p/index.mp4?Expires=1592956800&Signature=D1qFBdgBVcsEBDwznWVm34Orup-vPB3sBNx-5jMBW1Zjo4kaOzCF9spiOMHtZUP1hgDV-CqUYbMyOwcgxNM8qZRLwOKJyn2NPq8l931iyibwFb~Gx7cAjJnEdboPbxRZsv1A23tBmt-MWG2hzbkXsR0v2txJ~m7sZ5kENv~M3dI_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+
+
+What is a while loop?:
+https://d3c33hcgiwev3.cloudfront.net/rrAisdWLEemLvBJkhPge_A.processed/full/360p/index.mp4?Expires=1592956800&Signature=SPtYWLj-5IHKEdZKGRL8NdL~12kCeZmeRR1~t-rs8v14064kP6mQrRlam0TYcpkxNLiZgxq4gfEJiKlgL-UMwlmGgHYJUPEQcDo2YSxucHuxWlQlpR82DWyKj7VgvtXPRVwhUHnPN~0Qu0jFYWadun72cd0-n2uxbMoWVK4lU~o_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+
+
+More while Loop Examples:
+https://d3c33hcgiwev3.cloudfront.net/rp_2ENWLEemLvBJkhPge_A.processed/full/360p/index.mp4?Expires=1592956800&Signature=U0PabxOaiCy7J2zMoL7OsbBQBFE9SrFT~B2xcjkhIni23BUbOueq9SRoKp8jFInrwyqs1vM5ELHBmnb~cypyu5Vys3CSTW7RjZ9KHShgZPopsBjAMEux~u~de2Jnl-vu-b9syW-5eYkqgt5J98yDF-JR5lDhzBsvpXlpiptVDMc_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+
+
+
+Why Initializing Variables Matters:
+https://d3c33hcgiwev3.cloudfront.net/rnzeE9WLEemkuwrX1d3ObA.processed/full/360p/index.mp4?Expires=1592956800&Signature=TmlbV1dBoITt2IHRQXPi0M06vKydoZxZ9hWUpeI5LEnh8dxopUHVByYRfHj~UIrHb~SjO9JFfSYbmK~ocWhnhjHfUNWrQQ3aGu-hYZ43IdTsjACWDHN-vNaDOhF7h7Mg9yKLaPKxaB75vmP7TxNR4M-bcFLXNTKxuasnrjcLOuI_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+
+
+Infinite Loops and How to Break Them:
+https://d3c33hcgiwev3.cloudfront.net/rn3vHdWLEemLvBJkhPge_A.processed/full/360p/index.mp4?Expires=1592956800&Signature=NLrs87Fn05Ty8c1VSwqnKuZaNbEb9W0PtG3Y~oLJGEvhFAc110vPCUG0Z1iGDFgfkZcMfk~6kkJoCRKvfDKrTNIdl8Hz5uN3qxUK4CIrE7cvXeD63xJfbm2kGNI7xY1k9QjO7p56huRZkC6oPoEltrlcEwYxzW-X4DEjcRcXFo4_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+
