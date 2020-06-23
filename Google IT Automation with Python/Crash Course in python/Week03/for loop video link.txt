@@ -1,0 +1,13 @@
+What is a for loop?:
+https://d3c33hcgiwev3.cloudfront.net/7rbIGGCDQG62yBhgg2BuUQ.processed/full/360p/index.mp4?Expires=1592956800&Signature=eDzob2I7fL4um7BTALElwJVi86dfNRtQa0qYUDinsSmpFncq-arNIiWgFknIYvJPIR9lEbbwIf~wr0GX6iZEtpi~u2j72B9Z530JFoQGU~FD9VgVz1IeYWM3TJwf-p7r1ec7t9pgARZ2wVXQFmZZi4FYYfh6ltPjCY~7XJBM9ms_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+
+
+More for Loop Examples:
+https://d3c33hcgiwev3.cloudfront.net/rp2F-9WLEemgqgoxEn8lOg.processed/full/360p/index.mp4?Expires=1592956800&Signature=G~8umttp6tkCPvGsIgk7ljvkdh5lzOEK7yPtdUZtdAkwlSeTDCUmoP0bAFkFXBOUuCkSN0w-o2rtR3PVm-ayp9nZRBm4KwTa-oVdUQeMRl~bjeKCTmGKk1HQ1QLPq1RZ0BrN1aLpC6muPaBcZbHxtzsONwZbOZfjR62BO1xECWI_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+
+
+Nested for Loops:
+https://d3c33hcgiwev3.cloudfront.net/rn1TSNWLEemBBQ6q5tv6Ug.processed/full/360p/index.mp4?Expires=1592956800&Signature=TMp5fRU6B8nrCWiiTKqsLPmAieEHPq3bnehgmOaMP1MhUgddK73CylPGsDcxxHcbHx9T2PN1vPgJpdcMb3tAjTilFlgIsECh7HeQqUJ3HkFxQe50ZY9tOp41HreUY3ONCapvmT06csBGoikortiFg1umAJF1OjQn4xXRGBWQm4k_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+
+Common Errors in for Loops:
+https://d3c33hcgiwev3.cloudfront.net/rp4hT9WLEemLvBJkhPge_A.processed/full/360p/index.mp4?Expires=1592956800&Signature=lWz6qJcXPp4T91ODkatuAt2Me7ubb2Je4j8mctsCHBGBRsMDpnlTKz32N4XZvVdUx0JwwgBgsZuIRBOO2KZLPiKMDRn4glnqhUbYMH7u0kJlmjB-fCbrm7DBzizQlU61JjO~LnAdGKXrEwpCvf1ge3WVBVUzAhnumkQxcuG1no0_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
