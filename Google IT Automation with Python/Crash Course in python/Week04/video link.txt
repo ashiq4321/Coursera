@@ -1,0 +1,17 @@
+1.Basic Structures Introduction
+https://d3c33hcgiwev3.cloudfront.net/AsBB8NWNEem1wRICcqBpcA.processed/full/360p/index.mp4?Expires=1593993600&Signature=Pl7oE4z7dmUHvA2bV-COPfaEDdSwat9yqEGC-mWQbF2TqbXCArtr-AdKZeOYcZ7V1vbT9bBtMviCZZvPc7u16qImzZfwGSw20Y4UTtNii7LtVHXG09eZGPnJ3p9k-QvrfVOrAZNpwnwKjlb1cAPjZ-9CeSqzq8lPol~shKvQSoQ_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+
+
+2.What is a string?
+https://d3c33hcgiwev3.cloudfront.net/Ar3Q79WNEem1wRICcqBpcA.processed/full/360p/index.mp4?Expires=1593993600&Signature=gQf7-uW~b9RSNCaFBKEsJStYraHKmNLojilSKJni~rXrVqGcPQTpDwIRNCNM8hY6CKO~M-2xxEW8UgnV3T7VGz-HgH~mxkDqRoeURx40QdgoYChIvw7-hVHD3u1uGjNeuphXnsKKYKljpNs33CFj3tMuOCIDJtvYahlYhrawcXs_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+
+3.The Parts of a String
+https://d3c33hcgiwev3.cloudfront.net/AqYqotWNEemgqgoxEn8lOg.processed/full/360p/index.mp4?Expires=1593993600&Signature=ENB~gL0x1~TQWy4ZSciI43hPRKjebfEzvfjpj0OlzWnMQanY76wmx-g41A6Yn04icUblkxMravHdt7Q9THHX62VH1l-r8amkHxZt~FJYqWHS9FK4aoTBbILzBJGxw8yBu-6iscVrUqeptQDufqVYxD~indpS9b72yFLiD24DCos_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+
+
+4.Creating New Strings
+https://d3c33hcgiwev3.cloudfront.net/AruHz9WNEemBBQ6q5tv6Ug.processed/full/360p/index.mp4?Expires=1593993600&Signature=eCyy~a1rtB02r-O8FcUxyHEa0b7k2dNTBeWu1I~y-fS0CCDKdkiaDikc8Mrh-W9dydFZ2cZq8A9uYR2CTuNtNRb2HCq84cBftU4H0JyqyRSCKGOOWOccZnOSvKGw8BWbw0dXnWvke7Eu8AwDWn6KWDJLzAFCanhYO5p98tMNmsM_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+
+
+5.More String Methods
+https://d3c33hcgiwev3.cloudfront.net/AsBprtWNEemVGg7IEE0Tpg.processed/full/360p/index.mp4?Expires=1593993600&Signature=Vm-5LTq5KoHbjtF3PiFrcJUtV84JzpD1CUQrYSlilLLxEdhrlnztvlmemOtSdaaz3JcCnKMq~ucwa7~myVdTSWWceuMBLNOu~TJ0OeNB~yN-SaObox8HNzoTnAd1yrJX0qXj6q~vXJAZdFClsj4rjrarjY837XRdqoWtVymmaOE_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
