@@ -1,0 +1,16 @@
+1.What is a list?
+https://d3c33hcgiwev3.cloudfront.net/Aqib7NWNEemVGg7IEE0Tpg.processed/full/360p/index.mp4?Expires=1594339200&Signature=RzIETLx6fUqVlX0nP2-SEFncr9FA3AOtT0FO1gI6n5YxosBazr4C5dCjAqgKEDbFcwLKjDzJ50qYTvC1YUFhFk-SeBSnSBkM58fR~d4de3-DQwn-Lje7eZogr3pi0gGTON9NmHgcZAa9oe26m5W-~pLBtapUUEyhY9oAB0F7rbU_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+
+2.Modifying the Contents of a List
+https://d3c33hcgiwev3.cloudfront.net/AsSIX9WNEemVGg7IEE0Tpg.processed/full/360p/index.mp4?Expires=1594339200&Signature=e9WiTKZMDR9uLfaAN03EupcSG64qA09zQtJ9BMfwuIZp0KzxpSGB5jTHJoquQdiD81~kG~EMUJMB6wz1St3-endBHxHXtDeNfy0SpjNfUayodCvnb09-A2rAkjwb9J9F4NmtQ3WrwcPOC19H~dFAEkFBTjTXXZ4Q7gYkuytHtig_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+
+3.Lists and Tuples
+https://d3c33hcgiwev3.cloudfront.net/AqgmdNWNEemgqgoxEn8lOg.processed/full/360p/index.mp4?Expires=1594339200&Signature=jn8~m~DN-SB2xLRSjz0~A4I40YQ54Nr24Eaynv6bBZTP5EjManTvkjtrcK7a8nR-6-iRz0DxXhF1I7TlVDtVWPPn9lWxQ6etR1BYRsyTticdaAcDSeXw92JXM6t57l~cD~LTzKb7CBM0InR9VzWvOHArS3M9Kh-nttvDRWNJ-b4_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+
+
+4.Iterating over Lists and Tuples
+https://d3c33hcgiwev3.cloudfront.net/AruH0NWNEemBBQ6q5tv6Ug.processed/full/360p/index.mp4?Expires=1594339200&Signature=F5SObsSgiA34b9Di3CGKNoLPGePLHFbAYeE-KLfDN5wt3VqDBNEJV~n7Qfhk9~fdsK8CDp48JeVtXYS5p4eK8i0JUzAvqOCVPEDj0KKjeTvM7vAVTw4jZYMcesiYj7giqZSS6YfbLaheBsga13dqdOMaae~1r-~NLKo~3319af8_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+
+
+5.List Comprehensions
+https://d3c33hcgiwev3.cloudfront.net/AqeKM9WNEemgqgoxEn8lOg.processed/full/360p/index.mp4?Expires=1594339200&Signature=C~Mkz0CB~PV~OVyCDBR66nT4cy7KxS-5bYvRi7dPy6XAkewyg62GUu6uMRnrhP-Ro-NVVhFuHWBZ6CsLviBVEdBA4sIo3SvpIv0JT928-NNUaLCkTXQsyiE9XJJIgVLcxt1puRRvbIvkO1IVWGdbyB4HvdOkJr51i6Z9vRu1HtM_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
