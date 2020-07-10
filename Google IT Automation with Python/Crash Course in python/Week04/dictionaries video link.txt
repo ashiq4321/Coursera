@@ -1,0 +1,10 @@
+1.What is a dictionary?
+https://d3c33hcgiwev3.cloudfront.net/AsT9v9WNEemkuwrX1d3ObA.processed/full/360p/index.mp4?Expires=1594425600&Signature=EPDmfIjWlQwTnhhkJRPcUmK7fau2scD3wvMl6wrw1YOO9vHckhcErPyuRCyLz3tO~hbW-rPrp4hZ-VCgo-~z8eCdn3QhRbZsvDxeO4mdaL~IaKJjRPQRo5WpGei29N8PFrQaqvFubqwC4hDV~~XvwIWI-nhkBcSeM~8FNE48xHM_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+
+
+2.Iterating over the Contents of a Dictionary
+https://d3c33hcgiwev3.cloudfront.net/AsAbvtWNEemkuwrX1d3ObA.processed/full/360p/index.mp4?Expires=1594512000&Signature=J2eiq~rvO6WvJDSbZ5zqNaDqaYypnjqW7C8w2yXPh4rLm41TnZKKc9t9qZ4JBdqTn9Yj6u-vXaI-SNfrCn-r9VlDfuK8g9FLRtyzpk9Qt6~ZsB-RBcRWBDCkEuneRqkK35Q6YX1jzRtWCS7bzaThRxpWIngFmvSBV7-TMCIUdWk_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+
+
+3.Dictionaries vs. Lists
+https://d3c33hcgiwev3.cloudfront.net/ArwjqdWNEemLvBJkhPge_A.processed/full/360p/index.mp4?Expires=1594512000&Signature=f6HnmLmeZsYgfDGMwVM2YJOU2BcpH2OPkKED0XBhBCKPFd0BTg07YZvZ3VDILe7QmShkcvX-v98uhLy-EB1duZp4m0~Yyhgp46ayvRPOzhMYi~FrrYJfS9Js1jUIhD8d088g18qlZCAVK8guV935v5BZak0QEBxgBef4OBjt-iE_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
