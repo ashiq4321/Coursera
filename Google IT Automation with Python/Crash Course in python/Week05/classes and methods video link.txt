@@ -1,0 +1,15 @@
+1.Instance Methods (Optional)
+https://d18ky98rnyall9.cloudfront.net/3zgT7NWNEemkuwrX1d3ObA.processed/full/360p/index.mp4?Expires=1594598400&Signature=DFFeW5SAgT6O9cw2VowsmKNAjHLof3~XFpD2GE3usrZqYnkSSCFFTI2BnI3V-QuBXDZdPUHnWjttsRS9IzQmmeQYSq5OmRtNFkCyERAxKqyKyWMPxY-7gEeFwaRtkHOD~wEC605NJIuAjuSfNAV3BvIZM9~uMJfPnBU53kAWF2o_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+
+
+2.Constructors and Other Special Methods (Optional)
+https://d18ky98rnyall9.cloudfront.net/3zTfrtWNEem1wRICcqBpcA.processed/full/360p/index.mp4?Expires=1594598400&Signature=dtj1kFsLrNsIavbRgd2LMiO3aT7jFRwrrBL6EYCJ3EMUJ~2hBuMG5r9Q9vt0Ya3Id-KLZXlSEqdqmq5-ITHSvkWwxU2IQynZ98bdnPlgP4vRva3bVSA2KRIHpdI8ccoIa1eH46~stmykSYVk7vTRlEdLcL6gwqYeGN8fhuEodPQ_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+
+3.Constructors and Other Special Methods (Optional)https://d18ky98rnyall9.cloudfront.net/3zTfrtWNEem1wRICcqBpcA.processed/full/360p/index.mp4?Expires=1594598400&Signature=dtj1kFsLrNsIavbRgd2LMiO3aT7jFRwrrBL6EYCJ3EMUJ~2hBuMG5r9Q9vt0Ya3Id-KLZXlSEqdqmq5-ITHSvkWwxU2IQynZ98bdnPlgP4vRva3bVSA2KRIHpdI8ccoIa1eH46~stmykSYVk7vTRlEdLcL6gwqYeGN8fhuEodPQ_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+
+
+4.Documenting Functions, Classes, and Methods (Optional)
+https://d18ky98rnyall9.cloudfront.net/3zXxh9WNEemLvBJkhPge_A.processed/full/360p/index.mp4?Expires=1594598400&Signature=PCwwD-HiJtiPZFVET~LCKVxMsdyUGMiG8qRjzjBBMv4xscXM4F8RKyNhF8sWwGPjFPQThVVT0pLOl9ERyuMJ0s4Kk4FT12ha3WUOxaxz6MwJfzp48Zav3cZDEs-HoKiXe3YvoqljZ-5G0BSAG-ym8L7qIYG2~vbRWdybC-wn-h0_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+
+5.About Jupyter Notebooks (Optional)
+https://d18ky98rnyall9.cloudfront.net/3xWXr9WNEemBBQ6q5tv6Ug.processed/full/360p/index.mp4?Expires=1594598400&Signature=Rs7E~uBCKbaPNOGr90nNgPJZ1fKk3wkXwUTo~29bIaqgPvinxecdD~kQxzI6HBF~dp2wwSzwm7QHgtIgy~W-vwrd3FBw05ZhfAmAjpLUwBgYrCw0MFU7tRiB4Oy~vA9T2iukBkFpuL1voiMarhxR2c4x-uZ0qdgEsQHoXFNfatY_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A

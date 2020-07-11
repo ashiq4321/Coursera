@@ -1,0 +1,5 @@
+1.Inheritance (Optional)
+https://d18ky98rnyall9.cloudfront.net/3zgUcdWNEemgqgoxEn8lOg.processed/full/360p/index.mp4?Expires=1594598400&Signature=GsZMb9W~odWnHmYvS76ef5Ey7KUnW8iz7H-u95C3OEQ~vjl60oMwVhAvG0kba7~iOdoeJO~VHs~L5RDEDLGRhGxXa7BsgDRQAxhERhXMGJLD5wJEK8x0JtYhi-ti6kK-n-nCLZnw5EwyBV8fPUHadKG9~VtM0Xyr3XnR0a2mSao_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+
+2.Composition (Optional)
+https://d18ky98rnyall9.cloudfront.net/3zfsn9WNEemVGg7IEE0Tpg.processed/full/360p/index.mp4?Expires=1594598400&Signature=Oxog3vvjxo9j6KGkXtKxdNCrXzbZ---bKYODB9F7wPnXCnC2BdYSx~m3XhFPR-QShFn0f2NeY15mksh9En6odIRyTFWlofKpy83wZMOX-gjFIJdtO7ELH9bF2f45SaDbAQ6lAefdsOmEKT7E3fWv9N3ekV15YSPokJc1f1EiYv4_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A

@@ -1,0 +1,17 @@
+1.OOP Introduction (Optional)
+https://d3c33hcgiwev3.cloudfront.net/3xN1cNWNEemgqgoxEn8lOg.processed/full/360p/index.mp4?Expires=1594512000&Signature=iUR74yeYUHl9tCT3r0-QceIsrgVDDaZNY6zIf1FvW~6HF5AIxLe0w94TjELZJxZYq4PeqbNkgp5RcxlJyVIrBB4rK5YgBT7jzV3UocWPNg-363esJGUqw8BkIXKym1j7eZeoYiKIQw0fzLuvaSVvGPgTPWcy5qLZCsdJ6pvGisE_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+
+
+2.What is Object-oriented programming? (Optional)
+https://d3c33hcgiwev3.cloudfront.net/3xWX3dWNEem1wRICcqBpcA.processed/full/360p/index.mp4?Expires=1594512000&Signature=RFnd03xiufEm1GXI92lDIGMEBGJI5HbOOj4ggPLq9lH8FgiHikx2lknwQIq0RRbsEIHRD61UYie7T2bvMQnhMt1uSmvq7GC1iA39SiDT7H4G9eiffLz17O8TqLPZfveY~v1B1QwS7elnEFu5FdFqm2ZUAd-fmybTo--~WKTo2jA_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+
+3.Classes and Objects in Python (Optional)
+https://d3c33hcgiwev3.cloudfront.net/3xSGHdWNEemVGg7IEE0Tpg.processed/full/360p/index.mp4?Expires=1594512000&Signature=Z8Pcc34RGvBs1UQvXBgAIVc7R3w2jkYQUB2DbT159xx6iqUI0o0gJwmb3Dt4wxc123QomvjnI~mnbylCS-JEnscbRbizIFjT2OEQwsRx3x90L1eyk0bdCyKoD9h0bJX4FZ495m7AfZ1nhkwFkL~LSvnxcOwMC19~loeY9OmS8rg_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+
+
+4.Defining New Classes (Optional)
+https://d3c33hcgiwev3.cloudfront.net/-yiCU9sLEemM4RJ8zQwjOA.processed/full/360p/index.mp4?Expires=1594512000&Signature=UdcdgtNQ2Tc1fDBfTJbxbChBONuEiBPWwKPEYZNdVzTKPUY5e5PO5gh7qKPKiEo1-cbRsm2Q~rLhlvdhnJxGJeXefyTPeDksEQbdGg9QDq2Xz-AN6z9tLnf8IH9ILPmqBASVul8s2t1aV9vxip49vdHPt1JzrWKkgZaK6lbePmQ_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+
+
+5.Defining New Classes (Optional)
+https://d3c33hcgiwev3.cloudfront.net/-yiCU9sLEemM4RJ8zQwjOA.processed/full/360p/index.mp4?Expires=1594512000&Signature=UdcdgtNQ2Tc1fDBfTJbxbChBONuEiBPWwKPEYZNdVzTKPUY5e5PO5gh7qKPKiEo1-cbRsm2Q~rLhlvdhnJxGJeXefyTPeDksEQbdGg9QDq2Xz-AN6z9tLnf8IH9ILPmqBASVul8s2t1aV9vxip49vdHPt1JzrWKkgZaK6lbePmQ_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
