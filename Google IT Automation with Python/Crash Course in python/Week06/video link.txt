@@ -1,0 +1,23 @@
+1.Final Project Introduction
+https://d18ky98rnyall9.cloudfront.net/fLJrhdWSEem1wRICcqBpcA.processed/full/360p/index.mp4?Expires=1594598400&Signature=AD4h6U0mCIWWITzXKF4nPo~ECTseqLVGDEp9VWhImfXJD8Ebd6CYXBDAq-keDKVmGyh2SbZDAVTIYnQ-oJ5L2XQ9QB0l61pGXHlATLNIjf9496SgNV0CUXYYW7SDEyFltTXyghGcH326lp~Og2q1O~hXrQU~cYOTV4s2UZL3W1w_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+
+2.Problem Statement
+https://d18ky98rnyall9.cloudfront.net/fLTdMtWSEemVGg7IEE0Tpg.processed/full/360p/index.mp4?Expires=1594598400&Signature=FgdYuHLtmXQx97PaQgHrNYVjcUXaIhrfHabX9R71GIxC-sNY9YB~02Lli9sD8h2UkcB1rE~pzb~-RB~drAg2uqH~AwzpUCapG6GEs8e3I0D5GSjuPcLbE0JEbZng~dX5PfA7g153aK11J2sy2C76bd55JFtBKLOt1f3yWvWKfIw_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+
+
+3.Research
+https://d18ky98rnyall9.cloudfront.net/fM9pZ9WSEem1wRICcqBpcA.processed/full/360p/index.mp4?Expires=1594598400&Signature=YjRMFveEh~3wrhb-JAIY16PK1xlxWRXX-Ge3CCi1Y~gapKriP7MLn3lYRgdsQmVLXbzE3~gDETbMDt1RKJpREWXlfN~aplzlC31U8aNnd7x4LTK-dkTQhPjKyTJTAmlJsS8KIcNvITo741QYazkqoFFVgRpQrKWr4SNyVhxQ6PU_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+
+4.Planning
+https://d18ky98rnyall9.cloudfront.net/fLK5ptWSEem1wRICcqBpcA.processed/full/360p/index.mp4?Expires=1594598400&Signature=EBvL1i0LY8OjcvNP0ZI-GCVThguuB~iNwXaqlQ0nSnb2OuMV~2uCqpEZOQz7SxzIkDZfgrxpXR08EpV1jO8zgEVwAAZwHsXseHuBC2iUEWOFo5MO9dEyZ2HYslHtNL25Paf2a5WcNF1etqSav23dmCWsHwzPv5Xh6vAicg7UxG0_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+
+
+3.Writing the Script
+https://d18ky98rnyall9.cloudfront.net/fM6mf9WSEemLvBJkhPge_A.processed/full/360p/index.mp4?Expires=1594598400&Signature=Ubo5sU3eZJATmrBluPQIUheHVLt8oSduVvtgVVwfUNkM-uVJIsTaiJqgisy3J1YU8t3BquLwHzTQ-neZMClpuhk0wJ~7-suBekcW5gMNJEuLpI1i~CLmfiErOAH3AAJjUitiz2gI-gXi5l3hAjPL7r-yJWxVFTX~JBsT4YAri9E_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+
+
+4.Putting It All Together
+https://d18ky98rnyall9.cloudfront.net/fLGBI9WSEem1wRICcqBpcA.processed/full/360p/index.mp4?Expires=1594598400&Signature=LfA266Um9SeMhByVcLpqDF4bjUFwimqrTA~OTSLsznFXWr7HrQfmcrtchHeNF45xwaWCsppQWQURq0CwfmYFWH1BMwn5w1CcsuUFtq7MkxlgTWnBjPwW~EDYpOMf-99M~oTJWytXim4753sEBkt~tNCgQtfK81Qa0zdBBe31Ze8_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+
+5.Using Graded Jupyter Notebooks
+https://d18ky98rnyall9.cloudfront.net/oSGd6mNTRamhnepjU3WpLQ.processed/full/360p/index.mp4?Expires=1594598400&Signature=FqPRPLf5PudEPT6hg9K52LS1ZDjQkd9r~n5ozC8nN6IxKq6IIEijptjwQ3BZ~4URe2AgsTyXl1BUo--ChSnY-SSwkbs35oMTRcmy2b8Yl8PiH717iapZ5Ak5~kkd9zUxDgYnzOhF2k-f~Kqe6XGLQX7GsHXPpyRpPf2CYDqgBo0_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
