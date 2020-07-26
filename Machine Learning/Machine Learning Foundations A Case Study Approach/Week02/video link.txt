@@ -1,0 +1,66 @@
+1.Loading & exploring house sale data
+https://d3c33hcgiwev3.cloudfront.net/XVt4O1dvEeWQFhJe-Ji9VQ.processed/full/360p/index.mp4?Expires=1595462400&Signature=bPAYez8103UKnz6bErCzGFTWxolTO1BQzXIShaBdiIVDLo0y5SRjWz9xFXXwioHI9S~73jaRnDVZ2dnhfXY9Tc6-dukfImC-Zq5LYWOcyfmD2r7UjQa5uleExPVkYtbYkilOiHdaf4We6Hy6zmJp7gAl1NZqDHYptjp6sJXMefM_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+
+
+2.Predicting house prices: A case study in regression
+https://d3c33hcgiwev3.cloudfront.net/TZE8wk2jEeWMdwpGcticuQ.processed/full/360p/index.mp4?Expires=1595462400&Signature=Uf6FX0dVEs96x~Cx1tzMaiWhh5RhBAoBoCF74tmPXLY~R3Nv5Wu2cNqvzg77YavSHrHHAOVHev-Mdf4cgei6tVkC2Jm2IPla9ZMTUMOTRyvvSJ4ujBk0uWsxuY7YgfbYm28S3DGOodkc6OShg5Q8k36mLgHKC6YLnSWJscjsLH8_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+
+
+3.What is the goal and how might you naively address it?
+https://d3c33hcgiwev3.cloudfront.net/dRC48k2pEeWwjBJdtYEHXw.processed/full/360p/index.mp4?Expires=1595462400&Signature=PrlJjBWMW190F7thla~2lAo1MpD9NcmRM8aI0ke-Z8vTOvmBXuacV1cdvver56jlm4JL2nK-khUCYKhtGnDMKjM2wwhP9RCplC0rhN2ZHAljYU4hxOkuhEzW5grhtrCHONIl98QG3pznDnzkP4Mx72Fuv3axWSVet-Gd3MzwPiY_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+
+4.Linear Regression: A Model-Based Approach
+https://d3c33hcgiwev3.cloudfront.net/khV25k2pEeWgOw7KFJ5n5w.processed/full/360p/index.mp4?Expires=1595462400&Signature=TCbV5e4mYyDJJ5iIg3aeC7KSvqMXc3Pxjq4MZjtbylrKDAie5e~2fyrM~~uYP~k8axjCqIM5~me5g7m1WPEak08PVpYIl3r9fg9SJZ~HE~OVrjYYoaYRipE9IlTFk~Lb6g2KhzA7cJavVA5QwREaPpFuIYVyO2UtSVqoWaMKzfU_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+
+
+5.Adding higher order effects
+https://d3c33hcgiwev3.cloudfront.net/pqCPUE2pEeW17w7BjiD8oQ.processed/full/360p/index.mp4?Expires=1595462400&Signature=RQkk9EoBvuUmsaX1LmbWgXXWmhmja2TorAPSpHrnxgjdTMb2biuvfokou1vjPlLgU8yUsqfG1uPjWi~6GMru6RNBHYG2da0AsJgTsfdpFOWEm8F0k42tSh00EHCqud~1eAIKkLJ-YQQSGQb0aX6hWWnAbJXN7uLW52LjBMo26hk_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+
+6.Evaluating overfitting via training/test split
+https://d3c33hcgiwev3.cloudfront.net/6Spm7E2pEeWMdwpGcticuQ.processed/full/360p/index.mp4?Expires=1595462400&Signature=LzJUp4gey9yebWH-c7M6tGC2MhJrPlfI2xyokpzliZ6Nz5iUtjerPln-kWt9wf~pNmxQH8zoQBS8ow1JGvPmYOlVsuTWm9TQ4R31gbSIC~CjhcgIeOBWUr5ubhLS7KeasDlYvliQSclyQW07lI4HW3DVHdOr6HbHyXjPzH7sInI_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+
+7.Training/test curves
+https://d3c33hcgiwev3.cloudfront.net/sa8k6U2rEeWORgp0oqKdrw.processed/full/360p/index.mp4?Expires=1595462400&Signature=FHPmOJY8KYbsbUVRK7wivcJCXmz4q38K8cZqfGf5J5aNwmckUl6GEbjeonk2jZAmT4ykzbeVyl2UUrrRo4zr2w-~uK5SZXvTID68d04~1KOpkX7YnwxKlQmYldqR9OGCX~Iti6dty2SEXIZ0n-OJS7XTbCzM2HJaso4Cvxh96Mk_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+
+8.Adding other features
+https://d3c33hcgiwev3.cloudfront.net/NQd7zU2qEeWMdwpGcticuQ.processed/full/360p/index.mp4?Expires=1595462400&Signature=SZxLq7WVhfrF8-yzeKJrJAb1iMbbMrsdi-k57sNarjkOa0hjH~bsoDbchcSFuyvbO4Wdr~NIf8wt5YstAgkQ4R6em3mCMA0Rh5ez4KQpffstzPZm35jeSWT9~fCVJ~a6D5NMLUv2sQJiziyXEOCs043VO8EiUX29g3IEg6OkXwY_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+
+9.Other regression examples
+https://d3c33hcgiwev3.cloudfront.net/Qm7irVAQEeWMdwpGcticuQ.processed/full/360p/index.mp4?Expires=1595462400&Signature=CPuVf7iL9iL3NZDzmg62v0SIxs-4fII~s6okTTdA-koqgVTgsn~QEPGf13whKwgJr4xGwinFL9xh~7z8RDRuU0AcSgc3OO3hkkIS5sY2mHUAoC3~G7H96mma3We9hg5LS2LsLWD4G1IF-VyVhXHUOdupm4Bsay14uuzujefWcUw_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+
+8.Regression ML block diagram
+https://d3c33hcgiwev3.cloudfront.net/G6RwOVf6EeW-dQ59vjVHfQ.processed/full/360p/index.mp4?Expires=1595462400&Signature=kcGiyeqFyHVsR9lv8nBMVqH8DzmGfMj53ZM0vMmV0DrcFYly6Ye3FcOHZTTWdiaNsRH-FQOh4StBSlS9Kpc7PbrhBs9O9qlbe6WSnt7wmm8iIT6Pcesc9atbHusAIb~svdWrzqo0ungZ0ZzQO6MA3NWmOC8g6ReAgoA9vc8-v18_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+
+9.Loading & exploring house sale data
+https://d3c33hcgiwev3.cloudfront.net/XVt4O1dvEeWQFhJe-Ji9VQ.processed/full/360p/index.mp4?Expires=1595462400&Signature=bPAYez8103UKnz6bErCzGFTWxolTO1BQzXIShaBdiIVDLo0y5SRjWz9xFXXwioHI9S~73jaRnDVZ2dnhfXY9Tc6-dukfImC-Zq5LYWOcyfmD2r7UjQa5uleExPVkYtbYkilOiHdaf4We6Hy6zmJp7gAl1NZqDHYptjp6sJXMefM_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+
+10.Splitting the data into training and test sets
+https://d3c33hcgiwev3.cloudfront.net/iJMB7VdvEeWewwodVIdr3w.processed/full/360p/index.mp4?Expires=1595462400&Signature=CCDXMm5j0R5WHrYDHkDHTU1jCkEqKsCgjiX7ckZ2hLCPpxzYeg5kVvSCtoofL-gCoMLsXkANJa6MtlcfKjavD-zfNyGtgxvzw-4a4wQ0uhTkeq~yvdbY8Y-WMwOAcjcRvhxF6n6ZF7nTl5cHLK7bWBUA8~n16fN0YhTZVCAJXh8_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+
+11.Learning a simple regression model to predict house price
+https://d3c33hcgiwev3.cloudfront.net/Cbww4FdwEeW0OQ7Ipijcrw.processed/full/360p/index.mp4?Expires=1595462400&Signature=iDHZU9WjqDn8QYBK7MBMmeuaXg0JV0heQDxB9zG2pxztrSSZX1x20vbO5xzozTykHQc90ntw5XeF4Kun~iATVhAk9-sgKyeA0AEO1lDN5yhtLEbbDTR17n8zAjGpFgI-yNKfn9~ogJZNzhQTNmoaiEZH6ZiLg3ml~eWOPTZWQMo_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+
+12.Evaluating error (RMSE) of the simple model
+https://d3c33hcgiwev3.cloudfront.net/NrDUXldwEeWewwodVIdr3w.processed/full/360p/index.mp4?Expires=1595462400&Signature=b7L6gMSicpwns6acacbVYe0z~SbgUQ0MwGkGOeAWsMxY6qWhkX5tiTBD-2bGO7upyU13cYSArUhGtcXi3cLzCt4BAxykpAn~feVGttw9Uea3zkFn86uN~ZSFBYBrZwnveyTjBMBJmawpexaLSH9ZFsoQlhUwbh3Jgkopbf2v3Kk_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+
+13.Visualizing predictions of simple model with Matplotlib
+https://d3c33hcgiwev3.cloudfront.net/crWDrVdwEeWQFhJe-Ji9VQ.processed/full/360p/index.mp4?Expires=1595462400&Signature=MrWKuRKySqnByXwq3VQUaX2TO5-UfTkw7rDTxrrGgH0czQwCtin846w84WmEAoEv~0wm-EEDA88CNoXhWrgmIdXO3yrni5~cLxZdY2Pdym8vjXE7Ul8CEhFevoQfBYjCB83k3yx9~sXmAsqX0F6b4gYine3EVU3X13qKb1~eUCk_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+
+14.Inspecting the model coefficients learned
+https://d3c33hcgiwev3.cloudfront.net/sc2NEVdwEeW0OQ7Ipijcrw.processed/full/360p/index.mp4?Expires=1595462400&Signature=DV~fF-eFTvs5CnZJctHIXvWt7-5AgiP0QFDjzfFRhbf1vprI4bnguKjW1VlHLyo2E25QSyy8X3Ab0tSzpy-AXEnRD-k-ah4XLiEcrIu4dp0WSpcPKufPphp4YIfwz40zo7Nq90BP4DQU2qzqE0I4mb34r9~x3Rr7nMAkn-0HtpE_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+
+15.Exploring other features of the data
+https://d3c33hcgiwev3.cloudfront.net/SI1LI1fjEeWQFhJe-Ji9VQ.processed/full/360p/index.mp4?Expires=1595462400&Signature=kSaCih~fsAafSKXERodonN50V8cKw8aFINkmEGs58cdfci5I1X4UjEU5UpeEOmJsEOit0R~-wHcZMhO2Vmj-mTLrs~zHPuLsGs5vTi0rWYbi5Eg1CICWFtwe6iLxmU8gJcGFq69d3pdSDBoRYdhHUs2eKuO1CyB1TWtOQJshDtY_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+
+16.Learning a model to predict house prices from more features
+https://d3c33hcgiwev3.cloudfront.net/Zn3IBFfjEeWKcg4hVzMYgw.processed/full/360p/index.mp4?Expires=1595462400&Signature=YL5BqwhhWGULfuiiF1iX03R-h8p53TyeIxxMgV6qVXw1pTpBUL6lJRfVIK~My8~21~dWhg6FzjND9NwIQFMMmkVjCF3tMw7rstBxc4pw3U2F7AGCV3C~8Q3SUPr-zcA~J~oXD93-uRxv~jaPRAo7yrcwh5qsKljat0sCnG6v6yg_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+
+17.Applying learned models to predict price of an average house
+https://d3c33hcgiwev3.cloudfront.net/0X48LFdxEeWXDxJeWFTSgQ.processed/full/360p/index.mp4?Expires=1595462400&Signature=R5Oirq1Xvv9CNUtXJiD3lFewjpiedwTE42HEfK2pjP-zj-NE5Afw6wjyHdfbKB4YFUhLql155tl~nGyureyDlQ3lo8yyWnv7gv2v301DMt~xnnPZJlNwiMXmrKwzl5PT2n1eHBvPF-~-VVtbXU6XGo4u9CG9koS-qx2zH3QCLxY_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+
+18.Applying learned models to predict price of two fancy houses
+https://d3c33hcgiwev3.cloudfront.net/31rRTldxEeWKcg4hVzMYgw.processed/full/360p/index.mp4?Expires=1595462400&Signature=ZQTD6SgPuKRIFpALqJxfnz22apO4i7bII6UpNZih64oPTv5ct23ehGxZ33usgFsGwGHrea4iy29oma0UKX3qG48sn05hVKMjkFthPeZljW48a9k~AGQqKTkxu7NoKYMjuqawCUONGxu-~W4jzsNVS-M7jDrS5uFjG3FApO5b~Gw_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+
+
+
+
